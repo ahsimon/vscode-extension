@@ -1,2 +1,2 @@
 # vscode-strawberry
-vscode extension to test vscode views
+vscode extension to test IA Capabilities
